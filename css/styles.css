@@ -255,6 +255,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: vw;
+  border: red solid 2px;
+  z-index: 11;
 }
 
 .square {
